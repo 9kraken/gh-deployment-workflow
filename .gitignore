@@ -1,3 +1,5 @@
+.github/deploy_key
+.github/deploy_key.pub
 .vscode/
 *.log
 *.tmp
